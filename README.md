@@ -1,4 +1,4 @@
-# Feathers Extension Canvas 0.9.0
+# Feathers Extension Canvas 0.9.1
 
 Say hello to [Feathers Extension Canvas](https://github.com/pol2095/Feathers-Extension-Canvas/).
 This project add a Canvas control to Feathers UI, a library of light-weight, skinnable, and extensible UI controls for mobile and desktop. The components run on Starling Framework and the Adobe Flash runtimes, offering blazing fast GPU powered graphics to create a smooth and responsive experience. Build completely standalone, native applications on iOS, Android, Windows, and Mac OS X, or target Adobe Flash Player in desktop browsers.<br />
